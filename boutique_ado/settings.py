@@ -28,8 +28,6 @@ DEBUG = True
 
 ALLOWED_HOSTS = ['brad-boutique-ado.herokuapp.com', 'localhost']
 
-ALLOWED_HOSTS = []
-
 
 # Application definition
 
